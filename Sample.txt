@@ -1,1 +1,4 @@
 Machine Learning concepts
+1) Classification
+2) Regression
+3) Clustering
